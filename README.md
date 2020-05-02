@@ -1,6 +1,5 @@
 ## 使用方法
 
----
 
 1. 前往App Store下载Shadowrocket
 2. iOS设备上安装[这个描述文件](https://github.com/nondanee/UnblockNeteaseMusic/raw/master/server.crt)，并在设置中信任CA证书
@@ -13,7 +12,6 @@
 
 ## 致谢
 
----
 
 [nondanee](https://github.com/nondanee)/**[UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)**
 
